@@ -1,4 +1,4 @@
-#spotify-mac-ad-blocker
+# spotify-mac-ad-blocker
 
 Blog post for explanation in progress.
 
